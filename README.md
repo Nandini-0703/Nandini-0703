@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nandini Aggarwal</h1>
 <h3 align="center">I am a Full Stack Developer currently pursuing my Btech degree</h3>
+<img align="right" width="400" src="2wCEAAkGBxMREhMTExIWFhIXGBgVFhUXFhgYFRcaFhgYFhgXGxUYHyggGBolHhUWITEhJSkrLy4uFx8zODMtOigtLisBCgoKDg0OGxAQGy4mHyUvLy0vLy0tLy0tKy0tLy0tLTAtLS01LS0tLS0tLS0tLy0tLS0tLS8tLS0tLy0tLS0tLf" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandini-0703" alt="nandini-0703" /></a> </p>
 
